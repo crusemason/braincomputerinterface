@@ -1,0 +1,60 @@
+.ml{
+	margin-left:20em;
+}
+
+.small{
+	font-size:.8em;
+}
+
+
+.psmall{
+	font-size:.7em;
+	text-align:justify;
+}
+
+#red{
+	background:red;
+}
+
+#black{
+	color:black;
+	margin-right:auto;
+}
+
+#start{
+	justify-content:start;
+}
+
+.ma10{
+	padding-left:10px;
+}
+
+.regcontainer{
+	color:white;
+}
+
+#regp{
+	margin-top:5rem;
+	text-align:justify;
+}
+
+.jus{
+	text-align:justify;
+}
+
+#bib{
+	text-align:justify;
+	word-wrap: break-word;
+	font-size:.7em;
+}
+
+#bib-section{
+	border-bottom:1px solid black;
+}
+
+.footer-section{
+	border-top:1px solid rgba(0,0,0,.1);
+}
+#regulations-section{
+	height:400px;
+}
